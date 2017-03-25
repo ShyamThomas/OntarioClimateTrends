@@ -1,3 +1,6 @@
+##This code file is based on canadaHCD package developed by Gavin Simpson and is a beta version that is still under development. 
+
+
 getwd() #"C:/Users/thoma/Rprojects/OntarioClimateTrend"
 # read all stations in file named Ont.Stns.Lat##
 ont.stns.lat=read.csv("ont.stations.latwise.csv")
